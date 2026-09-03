@@ -1,0 +1,7 @@
+{
+  "label_codes": [
+    "KNEE_BENT",
+    "SHALLOW"
+  ],
+  "window_len": 32
+}
